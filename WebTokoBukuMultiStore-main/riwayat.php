@@ -61,7 +61,7 @@ if (!isset($_SESSION['pelanggan'])) {
   <div id="container">
     <div id="header">
       <div class="headerBackground">
-        <h1><font color="#f8192e"><br><br><b>&nbsp;&nbsp;Multibook</font><font color="#ffffff"> Store</font></b></h1>
+        <h1><font color="#f8192e"><br><br><b>&nbsp;&nbsp;Dunia Buku </font><font color="#ffffff"> Store</font></b></h1>
       </div>
     </div>
   <body>

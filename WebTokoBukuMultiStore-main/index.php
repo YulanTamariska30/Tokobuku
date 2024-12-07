@@ -61,7 +61,7 @@
   <div id="container">
     <div id="header">
       <div class="headerBackground">
-        <h1><font color="#f8192e"><br><br><b>&nbsp;&nbsp;Multibook</font><font color="#ffffff"> Store</font></b></h1>
+        <h1><font color="#f8192e"><br><br><b>&nbsp;&nbsp;Dunia Buku</font><font color="#ffffff"> Store</font></b></h1>
       </div>
     </div>
   <body>
@@ -129,7 +129,7 @@
             <div class="row">
                 <div class="col-sm-12 text-center">
                    <img src="img/store.png" width="128px" height="128px"><br>
-                    <h1><b><font color="#f8192e">Multibook</font>Store</b></h1>
+                    <h1><b><font color="#f8192e">Dunia Buku </font>Store</b></h1>
                     <hr>
                 </div>
             </div>
@@ -145,7 +145,7 @@
                 <div class="meta-post">
 
                   <span><em class="glyphicon glyphicon-th-list"></em> Belanja Buku</span>&nbsp;&nbsp;
-                  <span><em class="glyphicon glyphicon-calendar"></em> 7 Juni 2020</span>
+                  <span><em class="glyphicon glyphicon-calendar"></em> 30 Agustus 2024</span>
 			<div class="row">
 
 
@@ -201,7 +201,7 @@
 
     <div class="row" style="background: black;">
       <nav class="footer">
-            <footer class="copyright text-center"><p>&copy; Copyright Multibook Store 2020</p></footer>
+            <footer class="copyright text-center"><p>&copy; Copyright Dunia Buku Store 2020</p></footer>
         </div>
       </nav>
     </div>
